@@ -1,0 +1,11 @@
+{
+  "name": "Ghost Spectre Clicker",
+  "short_name": "GhostSpectre",
+  "description": "The ultimate spectral tap-to-earn experience. Manifest your legend.",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#08091a",
+  "background_color": "#08091a",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,15 @@
+
+{
+  "appId": "com.ghostspectre.clicker",
+  "appName": "Ghost Spectre Clicker",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "backgroundColor": "#08091a"
+  }
+}
